@@ -8,7 +8,7 @@
 | **Curso** | Tecnologia em Desenvolvimento de Software Multiplataforma (DSM) |
 | **Instituição** | Fatec Jacareí — Centro Paula Souza |
 | **Portfólio** | [fatec-jacarei-dsm-portfolio.github.io/ra2581392513024](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392513024/) |
-| **Vídeo de apresentação** | [youtu.be/81iGP-wStGc](https://youtu.be/81iGP-wStGc) |
+| **Vídeo de apresentação** | [youtu.be/XoYm7WEIC_Y](https://youtu.be/XoYm7WEIC_Y) |
 
 ## Contatos
 
